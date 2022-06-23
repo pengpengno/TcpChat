@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TcpChat.iml" filepath="$PROJECT_DIR$/.idea/TcpChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TcpServer/TcpServer.iml" filepath="$PROJECT_DIR$/TcpServer/TcpServer.iml" />
     </modules>
   </component>
 </project>
